@@ -1,0 +1,14 @@
+*.pyc
+*.csv
+*.json
+*.txt
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.pptx
+*.ppt
+*.odt
+*.ods
+*.odp
